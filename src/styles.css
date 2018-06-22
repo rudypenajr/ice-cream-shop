@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: "Proxima Nova", Helvetica;
+}
+.lists {
+  display: flex;
+}
+.top-bar {
+  background-color: #0072a3;
+  padding: 2px 0 5px;
+}
+.doc-links {
+  width: 100%;
+  display: flex;
+}
+.doc-links .right {
+  margin-left: auto;
+}
+.doc-links a {
+  margin: 10px;
+  font-size: 14px;
+  color: white;
+}
+.solution-button {
+  margin: 1em;
+}
+.solution {
+  background: #f4b852;
+  padding: 10px;
+  margin: 1em;
+  line-height: 0;
+  max-width: 700px;
+}
+.solution img {
+  width: 100%;
+}
+.app {
+  background: #0072a3;
+  padding: 15px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-container div {
+  width: 40%;
+}
+
+.card {
+  background: #ffffff;
+  border: 10px solid #f4b852;
+  padding: 10px 20px;
+  width: 56%;
+}
+
+.card h2 {
+  margin-bottom: 0;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "rudy-pena-ice-cream-shop",
+  "version": "1.0.0",
+  "description": "Ice Cream Shop Demo",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "i": "^0.3.6",
+    "lodash": "^4.17.10",
+    "npm": "^6.1.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
